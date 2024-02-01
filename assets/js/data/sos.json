@@ -1,0 +1,927 @@
+[
+    {
+        "idSujetoObligado": "5873",
+        "title": "Colegio de Bachilleres del Estado de Zacatecas",
+        "Sector": "Poder Ejecutivo"
+    },
+    {
+        "idSujetoObligado": "5874",
+        "title": "Colegio de Educación Profesional Técnica del Estado de Zacatecas",
+        "Sector": "Poder Ejecutivo"
+    },
+    {
+        "idSujetoObligado": "5875",
+        "title": "Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas",
+        "Sector": "Poder Ejecutivo"
+        },
+    {
+        "idSujetoObligado": "5876",
+        "title": "Consejo Estatal de Desarrollo Económico de Zacatecas",
+        "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5877",
+    "title": "Consejo Zacatecano de Ciencia, Tecnología e Innovación",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5878",
+    "title": "Coordinación General Jurídica",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5879",
+    "title": "Escuela Estatal de Conservación y Restauración de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5880",
+    "title": "Instituto de Cultura Física y Deporte del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5881",
+    "title": "Instituto de La Defensoría Pública",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5882",
+    "title": "Instituto de Selección y Capacitación",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5883",
+    "title": "Instituto Tecnológico Superior de Fresnillo",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5884",
+    "title": "Instituto Tecnológico Superior de Jerez",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5885",
+    "title": "Instituto Tecnológico Superior de Loreto",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5886",
+    "title": "Instituto Tecnológico Superior de Nochistlán",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5887",
+    "title": "Instituto Tecnológico Superior Zacatecas Norte",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5888",
+    "title": "Instituto Tecnológico Superior Zacatecas Occidente",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5889",
+    "title": "Instituto Tecnológico Superior Zacatecas Sur",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5890",
+    "title": "Instituto Zacatecano de Cultura",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5891",
+    "title": "Instituto Zacatecano de Educación para Adultos",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5892",
+    "title": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5893",
+    "title": "Jefatura de Oficina del C. Gobernador",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5894",
+    "title": "Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5896",
+    "title": "Patronato Estatal de Promotores Voluntarios",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5897",
+    "title": "Secretaría de Educación del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5898",
+    "title": "Secretaría del Agua y Medio Ambiente",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5899",
+    "title": "Secretaría del Zacatecano Migrante",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5900",
+    "title": "Servicios de Salud de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5901",
+    "title": "Universidad Politécnica de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5902",
+    "title": "Universidad Politécnica del Sur de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5903",
+    "title": "Universidad Tecnológica del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "5904",
+    "title": "Auditoría Superior del Estado de Zacatecas",
+    "Sector": "Poder Legislativo"
+    },
+    {
+    "idSujetoObligado": "5906",
+    "title": "Tribunal Superior de Justicia del Estado De Zacatecas",
+    "Sector": "Poder Judicial"
+    },
+    {
+    "idSujetoObligado": "5907",
+    "title": "Ayuntamiento de Guadalupe",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5908",
+    "title": "Ayuntamiento de Zacatecas",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5909",
+    "title": "Ayuntamiento de Apozol",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5910",
+    "title": "Ayuntamiento de Apulco",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5911",
+    "title": "Ayuntamiento de Atolinga",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5912",
+    "title": "Ayuntamiento de Calera",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5913",
+    "title": "Ayuntamiento de Cuahutémoc",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5914",
+    "title": "Ayuntamiento de El Salvador",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5915",
+    "title": "Ayuntamiento de Jerez de García Salinas",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5916",
+    "title": "Ayuntamiento de Cañitas de Felipe Pescador",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5917",
+    "title": "Ayuntamiento de Chalchihuites",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5918",
+    "title": "Ayuntamiento de Concepción del Oro",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5919",
+    "title": "Ayuntamiento de El Plateado de Joaquín Amaro",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5920",
+    "title": "Ayuntamiento de Florencia de Benito Juárez",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5921",
+    "title": "Ayuntamiento de Fresnillo",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5922",
+    "title": "Ayuntamiento de Trinidad García de la Cadena",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5923",
+    "title": "Ayuntamiento de Genaro Codina",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5924",
+    "title": "Ayuntamiento de Gral. Enrique Estrada",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5925",
+    "title": "Ayuntamiento de Gral. Francisco R. Murguía",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5926",
+    "title": "Ayuntamiento de Gral. Pánfilo Natera",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5927",
+    "title": "Ayuntamiento de Huanusco",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5928",
+    "title": "Ayuntamiento de Jalpa",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5929",
+    "title": "Ayuntamiento de Jiménez del Téul",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5930",
+    "title": "Ayuntamiento de Juan Aldama",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5931",
+    "title": "Ayuntamiento de Juchipila",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5932",
+    "title": "Ayuntamiento de Loreto",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5933",
+    "title": "Ayuntamiento de Luis Moya",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5934",
+    "title": "Ayuntamiento de Mazapil",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5935",
+    "title": "Ayuntamiento de Melchor Ocampo",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5936",
+    "title": "Ayuntamiento de Mezquital del Oro",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5937",
+    "title": "Ayuntamiento de Miguel Auza",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5938",
+    "title": "Ayuntamiento de Momax",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5939",
+    "title": "Ayuntamiento de Monte Escobedo",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5940",
+    "title": "Ayuntamiento de Morelos",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5941",
+    "title": "Ayuntamiento de Moyahua de Estrada",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5942",
+    "title": "Ayuntamiento de Nochistlán",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5943",
+    "title": "Ayuntamiento de Noria de Ángeles",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5944",
+    "title": "Ayuntamiento de Ojocaliente",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5945",
+    "title": "Ayuntamiento de Pánuco",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5946",
+    "title": "Ayuntamiento de Pinos",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5947",
+    "title": "Ayuntamiento de Río Grande",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5948",
+    "title": "Ayuntamiento de Saín Alto",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5949",
+    "title": "Ayuntamiento de Santa María de la Paz",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5950",
+    "title": "Ayuntamiento de Sombrerete",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5951",
+    "title": "Ayuntamiento de Susticacán",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5952",
+    "title": "Ayuntamiento de Tabasco",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5953",
+    "title": "Ayuntamiento de Tepechitlán",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5954",
+    "title": "Ayuntamiento de Tepetongo",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5955",
+    "title": "Ayuntamiento de Teúl de González Ortega",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5956",
+    "title": "Ayuntamiento de Tlaltenango de  Sánchez Román",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5957",
+    "title": "Ayuntamiento de Trancoso",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5958",
+    "title": "Ayuntamiento de Valparaíso",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5959",
+    "title": "Ayuntamiento de Vetagrande",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5960",
+    "title": "Ayuntamiento de Villa de Cos",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5961",
+    "title": "Ayuntamiento de Villa García",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5962",
+    "title": "Ayuntamiento de Villa González Ortega",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5963",
+    "title": "Ayuntamiento de Villa Hidalgo",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5964",
+    "title": "Ayuntamiento de Villanueva",
+    "Sector": "Ayuntamientos"
+    },
+    {
+    "idSujetoObligado": "5965",
+    "title": "Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "5966",
+    "title": "Instituto Electoral del Estado de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "5967",
+    "title": "Tribunal de Justicia Electoral del Estado de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "5968",
+    "title": "Universidad Autónoma de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "6021",
+    "title": "Sindicato del Personal Académico de la Universidad Autónoma de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11030",
+    "title": "Partido Verde Ecologista de México",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11031",
+    "title": "Partido Acción Nacional",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11032",
+    "title": "Partido Revolucionario Institucional",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11033",
+    "title": "Partido de la Revolución Democrática",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11034",
+    "title": "Partido del Trabajo",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11035",
+    "title": "Partido Nueva Alianza Zacatecas",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11036",
+    "title": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "11037",
+    "title": "Comisión de Derechos Humanos del Estado de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "11038",
+    "title": "Fiscalía General de Justicia del Estado",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "11039",
+    "title": "Régimen Estatal de Protección Social en Salud (Extinto)",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11040",
+    "title": "Secretaría de Administración",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11041",
+    "title": "Secretaría del Campo",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11042",
+    "title": "Secretaría de Finanzas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11043",
+    "title": "Movimiento Regeneración Nacional",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11045",
+    "title": "Secretaría de la Función Pública",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11046",
+    "title": "Secretaría de Desarrollo Social",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11047",
+    "title": "Secretaría de Economía",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11048",
+    "title": "Secretaría de Obras Públicas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11049",
+    "title": "Secretaría de las Mujeres",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11050",
+    "title": "Secretaría de Seguridad Pública",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11051",
+    "title": "Secretaría de Turismo",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11052",
+    "title": "Secretaría General de Gobierno",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11053",
+    "title": "Sistema Estatal para el Desarrollo Integral de la Familia",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "11054",
+    "title": "LXIV Legislatura del Estado de Zacatecas",
+    "Sector": "Poder Legislativo"
+    },
+    {
+    "idSujetoObligado": "11406",
+    "title": "Sindicato Único Del Personal Docente Y Administrativo Del Colegio de Bachilleres del Estado de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11407",
+    "title": "Sindicato de Trabajadores de la Universidad Autónoma de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11408",
+    "title": "Sindicato Independiente de Trabajadores de Telesecundaria en el Estado de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11411",
+    "title": "Sindicato de Trabajadores del Instituto Tecnológico Superior de Loreto",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11412",
+    "title": "Sindicato Único de Personal Académico y Administrativo de la Universidad Politécnica de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11414",
+    "title": "Movimiento Ciudadano",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "11509",
+    "title": "Sindicato Único de Trabajadores Universidad Tecnológica del Estado de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11930",
+    "title": "Sindicato Único de Trabajadores al Servicio de Municipios y Organismos Paraestatales",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "11931",
+    "title": "Sistema Zacatecano de Radio y Televisión",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "13537",
+    "title": "Instituto de Capacitación para el Trabajo en el Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "13610",
+    "title": "Fideicomiso Fondo Plata",
+    "Sector": "Fideicomisos y fondos públicos"
+    },
+    {
+    "idSujetoObligado": "13611",
+    "title": "Fideicomiso Zacatecas",
+    "Sector": "Fideicomisos y fondos públicos"
+    },
+    {
+    "idSujetoObligado": "14653",
+    "title": "Instituto Zacatecano de Construcción de Escuelas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "14667",
+    "title": "Coordinación Estatal de Planeación",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "14692",
+    "title": "Instituto para la Atención e Inclusión de las Personas con Discapacidad en el Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "14693",
+    "title": "Instituto Regional del Patrimonio Mundial",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "14714",
+    "title": "Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "14728",
+    "title": "Sindicato de Trabajadores del Instituto Tecnológico Superior Zacatecas Norte\r\n",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "14729",
+    "title": "Sindicato de Trabajadores del ITSZN de Río Grande\r\n",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "15891",
+    "title": "Sindicato de Docentes y Trabajadores del Instituto Tecnológico Superior de Fresnillo",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "15961",
+    "title": "Instituto de la Juventud del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "16113",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado de Río Grande",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16116",
+    "title": "Sistema de Agua Potable y Alcantarillado de Fresnillo\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16117",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado de Jerez\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16118",
+    "title": "Sistema de Agua Potable, Alcantarillado y Saneamiento de Villa García",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16119",
+    "title": "Sistema de Municipal de Agua Potable, Alcantarillado y Saneamiento de Tlaltenango",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16120",
+    "title": "Junta Intermunicipal de Agua Potable y Alcantarillado de Zacatecas.\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16121",
+    "title": "Sistema Municipal de Agua Potable, Alcantarillado y Saneamiento de Monte Escobedo\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16122",
+    "title": "Sistema de Agua Potable y Alcantarillado de Calera\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16123",
+    "title": "Sistema Municipal de Agua Potable Nochistlán",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16124",
+    "title": "Sistema Municipal de Agua Potable de Villanueva\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16125",
+    "title": "Sistema de Agua Potable de Teul de González Ortega",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16126",
+    "title": "Sistema de Agua Potable de Valparaíso",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16130",
+    "title": "Sistema de Agua Potable, Alcantarillado y Saneamiento de Jalpa",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16131",
+    "title": "Sistema de Agua Potable y Alcantarillado de Cuauhtémoc",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16132",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado Miguel Auza",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16133",
+    "title": "Sistema Municipal de Agua Potable Gral. Pánfilo Natera",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16150",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado de Juan Aldama\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16151",
+    "title": "Sistema de Agua Potable, Alcantarillado y Saneamiento de Loreto\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16152",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado de Luis Moya\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16153",
+    "title": "Sistema Municipal de Agua Potable de Villa de Cos\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16155",
+    "title": "Sistema Municipal de Agua Potable de Huanusco\r\n",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16156",
+    "title": "Sistema de Agua potable y Alcantarillado de Villa González Ortega",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16158",
+    "title": "Sindicato de Trabajadores del Instituto Tecnológico Superior de Jerez",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "16159",
+    "title": "Sindicato de Trabajadores del Instituto Tecnológico Superior de Fresnillo",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "16164",
+    "title": "Sistema Municipal de Agua Potable, Alcantarillado y Saneamiento de Enrique Estrada",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16165",
+    "title": "Sistema de Agua Potable, Alcantarillado y Saneamiento de Tabasco",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16170",
+    "title": "Sistema Municipal de Agua Potable de Tepechitlán",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16171",
+    "title": "Sistema Operador de Agua Potable y Alcantarillado de Juchipila",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16172",
+    "title": "Sistema Municipal de Agua Potable y Alcantarillado de Ojocaliente",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16210",
+    "title": "Sistema de Agua Potable, Alcantarillado y Saneamiento de Apozol",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "16215",
+    "title": "Sistema de Agua Potable Alcantarillado y Saneamiento de Pinos",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "17397",
+    "title": "Sindicato de Personal Académico y Administrativo del Instituto Tecnológico Superior de Zacatecas Norte",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "18398",
+    "title": "Sindicato Único de Personal Docente del Colegio de Educación Profesional Técnica del Estado de Zacatecas Plantel Fresnillo",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "18937",
+    "title": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "20037",
+    "title": "Comisión Estatal de la Defensa del Contribuyente",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "20397",
+    "title": "Sindicato Único de Personal Docente y Administrativo del Instituto Tecnológico Superior de Loreto",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "21677",
+    "title": "Sindicato Único de Trabajadores Académicos del CONALEP Plantel Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "25017",
+    "title": "Agencia de Energía del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "25097",
+    "title": "Sindicato de Trabajadores de la Universidad Politécnica de Zacatecas",
+    "Sector": "Sindicatos"
+    },
+    {
+    "idSujetoObligado": "26198",
+    "title": "Tribunal de Justicia Laboral Burocrático del Estado de Zacatecas",
+    "Sector": "Organismos Autónomos"
+    },
+    {
+    "idSujetoObligado": "26297",
+    "title": "Partido Encuentro Solidario Zacatecas",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "26317",
+    "title": "Partido Redes Sociales Progresistas",
+    "Sector": "Partidos Políticos"
+    },
+    {
+    "idSujetoObligado": "26997",
+    "title": "Centro de Conciliación Laboral del Estado de Zacatecas",
+    "Sector": "Poder Ejecutivo"
+    },
+    {
+    "idSujetoObligado": "27905",
+    "title": "Junta Intermunicipal para la Operación de Relleno Sanitario",
+    "Sector": "Descentralizados"
+    },
+    {
+    "idSujetoObligado": "27945",
+    "title": "SO que se extinguirá",
+    "Sector": "Descentralizados"
+    }
+]
