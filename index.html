@@ -4,11 +4,20 @@
         <title>Formulario PRONADATOS</title>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/bs.stepper.min.css">
+        <link rel="stylesheet" href="assets/css/select2.min.css">
         <link rel="stylesheet" href="assets/css/style.css">
 
     </head>
 
     <body>
+        <nav class="navbar navbar-light bg-light" style="background-color: white!important;box-shadow: 0px 2px 5px black;">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">
+                <img src="assets/img/logo-izai-2022.png" alt="" width="130" height="70"  class="d-inline-block align-text-top">
+              </a>
+              <span style="font-weight: bold;">Formulario PRONADATOS</span>
+            </div>
+        </nav>
         <div class="d-flex flex-column min-vh-100 bg-light" cz-shortcut-listen="true">
             <div class="container flex-grow-1 flex-shrink-0 py-5">
               <div class="mb-5 p-4 bg-white shadow-sm">
@@ -116,7 +125,7 @@
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="mediosForm"><b>Señalar el o los medios a través de los cuales se obtienen los datos personales en este tratamiento.</b></label>
-                                            <select name="medios" id="medios" class="form-control">
+                                            <select name="medios" id="medios" multiple="multiple" name="mediosObtencion[]" class="form-control obtencionMedios">
                                                 <option value="De manera personal con la presencia fisica del titular de los datos o del representante, en su caso">De manera personal con la presencia fisica del titular de los datos o del representante, en su caso</option>
                                                 <option value="Vía telefónica">Vía Telefónica</option>
                                                 <option value="Correo Electrónico">Correo Electrónico</option>
@@ -452,9 +461,9 @@
               </div>
             </div>
         </div>
-        <footer class="p-3 mt-auto bg-white shadow">
+        <footer class="p-3 mt-auto bg-white shadow" style="background-color: #330066!important;">
             <div class="container">
-            <p class="text-muted text-center mb-0">
+            <p class="text-muted text-center mb-0" style="color:white!important;">
                 Made with <span aria-label="love" class="text-danger">♥</span> by <a href="https://izai.org.mx">IZAI</a>
             </p>
             </div>
@@ -463,6 +472,7 @@
           
         
         <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/select2.min.js"></script>
         <script src="assets/js/main.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>

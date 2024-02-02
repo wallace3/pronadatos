@@ -80,6 +80,8 @@ $(function() {
         })
     }
 
+    $('.obtencionMedios').select2();
+
     fetchJSONData();
   
 });
